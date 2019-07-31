@@ -20,6 +20,7 @@ public static Connection getConnection() {
 	      Class.forName(db_driver_cls); 
            Connection con = DriverManager.getConnection(db_url, db_uname, db_pwd);
             }
+
 catch(Exception e)
 {
 	e.printStackTrace();
@@ -28,3 +29,5 @@ catch(Exception e)
 return con;
 }	
 }
+
+//comments//
