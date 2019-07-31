@@ -30,4 +30,4 @@ return con;
 }	
 }
 
-//no comments removed and adeed some info//
+//no comments removed and adeed some info power gone//
